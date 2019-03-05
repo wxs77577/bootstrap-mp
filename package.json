@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-mp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "bootstrap for mini program，Bootstrap 小程序版",
   "main": "dist/bootstrap-mp.css",
   "scripts": {

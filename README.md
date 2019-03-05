@@ -33,6 +33,6 @@ Bootstrap 小程序版
 ### 手动编译
 - `git clone git@github.com:wxs77577/bootstrap-mp.git`
 - `npm i`
-- `npm i -g parcel`
+- `npm install -g parcel-bundler`
 - `npm run dev` 开启调试
 - `npm run build`
