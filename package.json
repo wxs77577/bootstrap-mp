@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-mp",
+  "version": "0.1.0",
+  "description": "bootstrap for mini program，Bootstrap 小程序版",
+  "main": "dist/bootstrap-mp.css",
+  "scripts": {
+    "dev": "parcel -d dev-dist index.html",
+    "build": "parcel build -d dist src/bootstrap-mp.scss",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxs77577/bootstrap-mp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxs77577/bootstrap-mp/issues"
+  },
+  "homepage": "https://github.com/wxs77577/bootstrap-mp#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.17.2"
+  }
+}
