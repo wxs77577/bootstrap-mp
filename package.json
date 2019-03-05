@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-mp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "bootstrap for mini program，Bootstrap 小程序版",
   "main": "dist/bootstrap-mp.css",
   "scripts": {
@@ -12,8 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/wxs77577/bootstrap-mp.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "bootstrap",
+    "小程序",
+    "mpvue",
+    "UI"
+  ],
+  "author": "Johnny 吴雪松",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wxs77577/bootstrap-mp/issues"
